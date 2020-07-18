@@ -1,6 +1,6 @@
-# Angular Movies | Movies
+# The movie waffler 
 
-Angular Movies & TV Shows was generated with:
+This project was generated with:
 - Angular CLI version 8.3.0
 - Angular 8.2.3
 - Angular Material 8.1.4
